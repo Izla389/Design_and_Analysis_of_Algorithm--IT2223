@@ -1,4 +1,4 @@
-1. compare execution time of linear search and binary search
+1. create a array with 1000 numbers & compare execution time of linear search and binary search
   ![compare search time](https://github.com/user-attachments/assets/bf0cf9e3-a4fd-462f-b6ed-97bc642f045a)
 
 3. selection sort
