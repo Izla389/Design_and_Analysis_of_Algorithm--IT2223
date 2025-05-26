@@ -1,9 +1,11 @@
-1. binary search
-  ![binary search tictoc time](https://github.com/user-attachments/assets/afa1af56-19ae-4a15-a2a7-7e84d6207e1b)
+1.bubble sort
 
-2. linear search
-   ![linear search](https://github.com/user-attachments/assets/e497abc8-49df-447f-b2f2-bf85cdcb84ea)
+ ![bubble sort](https://github.com/user-attachments/assets/f469ee12-5783-4cbc-b50b-932bcc3c91fb)
 
-3. time complexity
-   ![tic toc time](https://github.com/user-attachments/assets/286b4d87-f829-4819-bd4e-781576695acb)
+
+
+
+2.insertion sort
+
+![insertion sort](https://github.com/user-attachments/assets/ff4454a8-fa60-4212-aa93-46296fd4dda7)
 
