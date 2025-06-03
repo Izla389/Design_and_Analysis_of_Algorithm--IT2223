@@ -18,7 +18,7 @@ Functions
 6.simple calculator - using multiple function
 ![multiple functions- simple calculator](https://github.com/user-attachments/assets/67c6e429-a9f8-4ca6-a0b0-118ae102820a)
 
-7. define the constant value unsing function
+7. define the constant value using function
    ![pi value](https://github.com/user-attachments/assets/8afd105e-9b5d-4528-8dee-cf37c308f497)
 
 
