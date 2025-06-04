@@ -24,6 +24,8 @@ SORTING
    ![insertion sort](https://github.com/user-attachments/assets/20f03fa9-38a9-49e7-aa9c-b3524a55b111)
 
 5. Quick sort
+   ![quicksort](https://github.com/user-attachments/assets/bf572ec9-81f6-44ed-8ec4-8040544e10b5)
+
    
 
    
