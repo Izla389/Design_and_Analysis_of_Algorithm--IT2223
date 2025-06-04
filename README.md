@@ -16,12 +16,15 @@ SORTING
    ![selectionsort](https://github.com/user-attachments/assets/07f38217-1601-4d00-b750-71f4b207bb20)
    
 
-4. Bubble sort
+3. Bubble sort
   ![bubble sort](https://github.com/user-attachments/assets/f7f39515-dfd9-46de-ac70-0325978b6774)
 
 
-6. insertion sort
+4. insertion sort
    ![insertion sort](https://github.com/user-attachments/assets/20f03fa9-38a9-49e7-aa9c-b3524a55b111)
+
+5. Quick sort
+   
 
    
 
