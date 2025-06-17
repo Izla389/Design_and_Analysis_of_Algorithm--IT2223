@@ -7,14 +7,18 @@ question
 6. ![6  shortest path from node 1 to node 5](https://github.com/user-attachments/assets/b4fca8d9-3739-4055-855e-d7df72005d50)
 
 
+
 tree
 1.![tree](https://github.com/user-attachments/assets/94778fb3-57f4-47ca-b2ac-db0d9f159352)
+
 
 weighted tree
 ![weighted tree](https://github.com/user-attachments/assets/9b4fe8b2-0770-4f1a-b9bf-e4f0f137fe00)
 
+
 bfs_tree
 ![bfs_tree](https://github.com/user-attachments/assets/26772527-5e7b-4e28-922d-a15697f15efc)
+
 
 dfs tree
 ![dfs_tree](https://github.com/user-attachments/assets/69284dd4-e9b7-49af-88a2-231c03fbe964)
