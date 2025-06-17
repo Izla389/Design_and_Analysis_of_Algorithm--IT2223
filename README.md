@@ -16,8 +16,12 @@ weighted tree
 ![weighted tree](https://github.com/user-attachments/assets/9b4fe8b2-0770-4f1a-b9bf-e4f0f137fe00)
 
 
+
+
 bfs_tree
 ![bfs_tree](https://github.com/user-attachments/assets/26772527-5e7b-4e28-922d-a15697f15efc)
+
+
 
 
 dfs tree
